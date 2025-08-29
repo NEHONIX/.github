@@ -2,7 +2,7 @@
 
 **Artificial Intelligence. Cybersecurity. Innovation.**
 
-Welcome to the official GitHub profile of **[NEHONIX](https://nehonix.space), Inc.** — a technology company dedicated to advancing **Artificial Intelligence** and **Cybersecurity**.  
+Welcome to the official GitHub profile of **[NEHONIX, Inc.](https://nehonix.space)** — a technology company dedicated to advancing **Artificial Intelligence** and **Cybersecurity**.  
 We build open-source tools and platforms that make technology smarter, safer, and more accessible.
 
 ---
@@ -25,6 +25,8 @@ Our mission is to combine **AI-driven innovation** with **robust security practi
 - **[XyPriss](https://github.com/Nehonix-Team/XyPriss)** – A secure, TypeScript-first Node.js framework with built-in clustering, caching, and advanced security modules.  
 - **Fortify Schema** – Smart schema validation built for reliability and safety.  
 
+> Many of our open-source initiatives are developed in collaboration with the private engineering team **[Nehonix-Team](https://github.com/Nehonix-Team)**.
+
 ---
 
 ## Values
@@ -36,4 +38,4 @@ Our mission is to combine **AI-driven innovation** with **robust security practi
 
 ## Contact
 📧 **support@nehonix.space**  
-🌍 Based in Ivory coast, building for the world.
+🌍 Based in Ivory Coast, building for the world.
