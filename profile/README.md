@@ -22,7 +22,7 @@ Our mission is to combine **AI-driven innovation** with **robust security practi
 
 ## Featured Projects
 - **[quickdev](https://github.com/nehonix/quickdev)** – A lightweight auto-reloader for faster development cycles.  
-- **[XyPriss](docs.xypriss.nehonix.space)** – A secure, TypeScript-first Node.js framework with built-in clustering, caching, and advanced security modules.  
+- **[XyPriss](https://docs.xypriss.nehonix.space)** – A secure, TypeScript-first Node.js framework with built-in clustering, caching, and advanced security modules.  
 - **[Fortify Schema](https://github.com/Nehonix-Team/fortify-schema)** – Smart schema validation built for reliability and safety.  
 
 > Many of our open-source initiatives are developed in collaboration with the private engineering team **[Nehonix-Team](https://github.com/Nehonix-Team)**.
