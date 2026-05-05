@@ -1,8 +1,8 @@
-# NEHONIX, Inc.
+# NEHONIX
 
 **Artificial Intelligence. Cybersecurity. Innovation.**
 
-Welcome to the official GitHub profile of **[NEHONIX, Inc.](https://nehonix.com)** — a technology company dedicated to advancing **Artificial Intelligence** and **Cybersecurity**.  
+Welcome to the official GitHub profile of **[NEHONIX](https://nehonix.com)** — a technology company dedicated to advancing **Artificial Intelligence** and **Cybersecurity**.  
 We build open-source tools and platforms that make technology smarter, safer, and more accessible.
 
 ---
